@@ -57,19 +57,19 @@
     "id": 10,
     "fact": "Raw horse meat, called 'basashi' (馬刺し), is a popular delicacy in Kumamoto prefecture, often served frozen or thinly sliced with soy sauce and ginger.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 11,
     "fact": "Japan's postal system has a special service where you can mail a letter to your future self, and they'll deliver it years later on the date you specify.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 12,
     "fact": "The word 'bakku-shan' (バックシャン) describes someone who looks attractive from behind but not from the front - a uniquely specific observation.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 13,
@@ -105,12 +105,12 @@
     "id": 18,
     "fact": "There are cat cafes in Japan where you pay by the hour to pet cats, but there are also owl cafes, hedgehog cafes, snake cafes, and even penguin bars.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 19,
     "fact": "Japanese convenience stores (konbini) are so advanced that over 70% of bills in Japan are paid there, not at banks.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
