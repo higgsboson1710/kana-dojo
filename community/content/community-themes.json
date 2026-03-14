@@ -312,6 +312,12 @@
     "secondaryColor": "oklch(78.0% 0.125 45.0 / 1)"
   },
   {
+  "id": "calligraphy-ink",
+  "backgroundColor": "oklch(96.0% 0.008 85.0 / 1)",
+  "mainColor": "oklch(20.0% 0.015 270.0 / 1)",
+  "secondaryColor": "oklch(45.0% 0.025 260.0 / 1)"
+}
+  {
     "id": "matcha-cream",
     "backgroundColor": "oklch(92.0% 0.025 140.0 / 1)",
     "mainColor": "oklch(55.0% 0.180 140.0 / 1)",
