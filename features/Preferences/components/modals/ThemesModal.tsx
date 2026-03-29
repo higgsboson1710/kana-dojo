@@ -103,7 +103,7 @@ const ThemeCard = memo(function ThemeCard({
   return (
     <button
       type='button'
-      className={`rounded-lg p-3 text-left ${isBigBeautifulTheme ? 'col-span-2 row-span-2 min-h-[11rem]' : ''}`}
+      className={`rounded-lg p-3 text-left hover:cursor-pointer ${isBigBeautifulTheme ? 'col-span-2 row-span-2 min-h-[11rem]' : ''}`}
       style={{
         ...(wallpaper ? wallpaperStyles : { background }),
         border: borderStyle,
