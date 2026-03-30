@@ -40,6 +40,7 @@ under **Production** (and optionally Preview/Development).
 A random secret shared between Vercel and the API route.
 
 **Generate one:**
+
 ```bash
 openssl rand -hex 32
 ```
@@ -57,6 +58,7 @@ A GitHub **fine-grained personal access token** with permission to dispatch
 workflows on this repository.
 
 **Steps:**
+
 1. Go to **GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens**
 2. Click **Generate new token**
 3. Set **Resource owner** to `lingdojo`
